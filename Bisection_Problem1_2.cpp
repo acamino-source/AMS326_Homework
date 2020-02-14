@@ -67,8 +67,6 @@ int main()
         {    
             b=c;    /*this means there exists a root between a and c so we make c the end point of the next interval*/
         }    
-        
-    
     }
     }            
     
